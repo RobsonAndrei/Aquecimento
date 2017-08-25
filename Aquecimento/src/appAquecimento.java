@@ -15,7 +15,6 @@ public class appAquecimento {
 			if (aux.getIdade() >= 65) {
 				pAux.enqueue(aux);
 			}
-
 		}
 		return pAux;
 	}
