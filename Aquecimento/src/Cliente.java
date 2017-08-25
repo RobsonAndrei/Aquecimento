@@ -1,6 +1,7 @@
 /***
  * 
  * @author robsonsantos
+ * e-mail robson.andrei@acad.pucrs.br
  *
  */
 public class Cliente implements Comparable<Cliente> {
